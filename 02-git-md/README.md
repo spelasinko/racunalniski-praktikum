@@ -8,7 +8,7 @@
 
 - *Kopiraj* označeno v odložišče: Ctrl+C (**C**opy)
 - *Izreži* označeno v odložišče: Ctrl+X
-- *Prilepi* vsebino odložišča: Ctrl+V
+- *Prilepi* vsebino odložišča: Ctrl+V 
 
 <!-- 2. nivojski razdelek -->
 ## Izvorna koda
